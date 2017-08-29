@@ -1,0 +1,18 @@
+Decision tree important links
+
+https://medium.com/towards-data-science/statistics-review-for-data-scientists-and-management-df8f94760221
+
+https://medium.com/greyatom/decision-tree-intuition-a38669005cb7 
+
+http://www.shogun-toolbox.org/static/notebook/current/DecisionTrees.html
+
+http://www.saedsayad.com/decision_tree.htm
+
+https://medium.com/@rishabhjain_22692/decision-trees-it-begins-here-93ff54ef134 
+
+https://medium.com/data-science-group-iitr/decision-trees-decoded-c70b4f7ff542
+
+https://medium.com/towards-data-science/what-is-a-decision-tree-22975f00f3e1
+
+https://medium.com/towards-data-science/decision-trees-in-machine-learning-641b9c4e8052
+
